@@ -1,0 +1,2 @@
+# PluginVersions
+Spigot Plugin Versions
